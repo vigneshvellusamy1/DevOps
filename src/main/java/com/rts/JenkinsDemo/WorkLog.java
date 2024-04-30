@@ -1,4 +1,4 @@
-package com.rts.JenkinsDemo;
+/*package com.rts.JenkinsDemo;
 
 public class WorkLog {
 	public String addToLog(String name) {
@@ -10,4 +10,4 @@ public class WorkLog {
 		return "Added Login Log For"+loginName;
 	}
 
-}
+}*/
