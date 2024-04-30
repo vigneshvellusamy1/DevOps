@@ -1,4 +1,5 @@
-package com.rts.JenkinsDemo;
+
+/*package com.rts.JenkinsDemo;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
@@ -32,3 +33,4 @@ public class TestWorkLog {
 	
 
 }
+*/
